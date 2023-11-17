@@ -1,10 +1,11 @@
-##### [https://www.blog996.com/md/2021-09-22-1632317852192.html](https://www.blog996.com/md/2021-09-22-1632317852192.html)
-
+[全目录地址:https://www.blog996.com/md/2021-09-22-1632317852192.html](https://www.blog996.com/md/2021-09-22-1632317852192.html)
 # 207.CarHireManagementSystem
 
-<p>群: 123300273(大佬群 2TB学习资料,讲解)(入群获取sql文件)</p>
+<p>群: 123300273(入群获取sql文件)</p>
+<p>QQ: 1095737364(加好友获取sql文件)</p>
 
 <p><h1 align="center">207.汽车租聘管理系统</h1></p>
+
 
 
 <p align="center">
@@ -26,7 +27,7 @@
 >
 > user 123456
 >
->
+
 
 
 ## 环境
@@ -57,21 +58,7 @@
 
 
 ## License
-
 ##### [个人站点: 全栈九九六(Java全栈知识资料下载)](https://www.blog996.com/)
 ##### [个人博客: 博客园精品博客](https://www.cnblogs.com/yysbolg/)
-
-
 # [更多论文: 全目录查看](https://www.blog996.com/md/2021-09-22-1632317852192.html)
-##### [https://www.blog996.com/md/2021-09-22-1632317852192.html](https://www.blog996.com/md/2021-09-22-1632317852192.html)
-
-![1](https://img2022.cnblogs.com/blog/588112/202209/588112-20220922103526339-1493007170.png)
-![2](https://img2022.cnblogs.com/blog/588112/202209/588112-20220922103543790-1329624097.png)
-![3](https://img2022.cnblogs.com/blog/588112/202209/588112-20220922103559105-1654136839.png)
-![4](https://img2022.cnblogs.com/blog/588112/202209/588112-20220922103617450-1858868571.png)
-![5](https://img2022.cnblogs.com/blog/588112/202209/588112-20220922103637646-959105862.png)
-
-
-
-
 
